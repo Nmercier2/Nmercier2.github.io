@@ -224,6 +224,18 @@ body {
 	margin-right: 120px;
 }
 
+#video {
+	color: #FFC73B;
+	text-align: center;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#video h2 {
+	color: #FFC73B;
+}
+
 #BottomBar {
 	margin-top: 10px;
 	width: 900px;
